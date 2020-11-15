@@ -1,0 +1,99 @@
+#cont{
+    width: 100%;
+    height: 10px;
+}
+#line-container {
+    background-color: #b60303da;
+    width: 80%;
+    height: 10px;
+
+}
+#line-container2 {
+    background-color: #111111 !important;
+    width: 20%;
+    height: 10px;
+}
+
+#prueba:hover{
+    color: #111111;
+}
+
+.afectado {
+    visibility: hidden;
+  }
+  
+.afectado2 {
+    background: blue;
+}
+/* ul > li{
+    color: #000000 ;
+} */
+
+.imgEdu{
+    margin-right: 100px !important;
+}
+.lenguajes{
+    height: 50px;
+    width: 50px;
+}
+.bord{
+    margin-top: 0;
+    border: 3px solid #cf0202da;
+    border-radius: 50%;
+}
+#c > li {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.n{
+    visibility: hidden;
+    width: auto;
+    background-color: #fdfdfd;
+    border: 3px solid #cf0202da;
+    padding: 2px 2px 2px 2px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 100;
+    left: 25%;    
+}
+.n p{
+    color: #111111 !important;
+    font-size: medium;
+    text-align: justify;
+}
+#id-cpp:hover > .n{
+   visibility: visible;
+   
+}
+#id-mysql:hover > .n{
+    visibility: visible;
+}
+#id-photoshop:hover > .n{
+    visibility: visible;
+}
+#id-java:hover > .n{
+    visibility: visible;
+}
+#id-python:hover > .n{
+    visibility: visible;
+}
+#id-c:hover > .n{
+    visibility: visible;
+}
+#id-js:hover > .n{
+    visibility: visible;
+}
+#id-css:hover > .n{
+    visibility: visible;
+}
+#id-html:hover > .n{
+    visibility: visible;
+}
+#id-office:hover > .n{
+    visibility: visible;
+}
+#id-react:hover > .n{
+    visibility: visible;
+}
